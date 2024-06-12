@@ -5,5 +5,9 @@ The Goonies, Richard Donner, 1985
 The Breakfast Club, John Hughes, 1985
 Monty Python and the Holy Grail, Terry Gilliam, 1975
 Willow, Ron Howard, 1988
+<<<<<<< HEAD
 dummy change
 Local change, test merge
+=======
+Remote change, test merge
+>>>>>>> 3b247a1fe6a5430b62b7d257e8856ad0fc1312a1
